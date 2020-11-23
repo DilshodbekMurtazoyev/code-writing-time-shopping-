@@ -1,0 +1,73 @@
+.butt{
+ border-radius: 15px;
+}
+.text1{
+ margin-top: 20px;
+ font-size: 12PX;
+ color: #c7c5c5;
+}
+.text2{
+ margin-top: -20px;
+ font-size: 20px;
+}
+.circle{
+ width: 10px;
+ height: 10px;
+ border-radius: 50%;
+ margin-left: -30px;
+ background-color: #18d9fb;
+}
+.payme{
+ margin-left: -30px;
+}
+.text3{
+ margin-top: 5px;
+ font-size: 12PX;
+ color: #c7c5c5;
+}
+.text4{
+ margin-top: -20px;
+ font-size: 15px;
+}
+.no{
+ right: -20px;
+ top: 15%;
+}
+.btn-no:hover{
+ transform: scale(1.2);
+}
+.btn-no{
+ width: 45px;
+ height: 45px;
+ font-size: 23px;
+ background-color: white;
+ border: 5px solid #EDEFF3;
+ border-radius: 50%;
+ transition: all 0.5s;
+}
+.btn-yes:hover{
+ transform: scale(1.2);
+}
+.btn-yes{
+ width: 45px;
+ height: 45px;
+ font-size: 23px;
+ background-color: white;
+ border: 5px solid #EDEFF3;
+ border-radius: 50%;
+ transition: all 0.5s;
+}
+
+.yes{
+ right: -20px;
+ top: 50%;
+}
+body{
+ background-color: #EDEFF3;
+}
+.block:hover{
+ box-shadow: 0 15px 20px #d8d8da;
+}
+.fa-bookmark-o{
+ cursor: pointer;
+}
